@@ -21,7 +21,7 @@
 * Linear SVM object detector
  ##### it  actually dosen't matter which method we use
 
-##step 2 
+## Step 2 
 
 ### Facial landmarks detector in dlib is  implementation of * One Millisecond Face Alignment with an Ensemble of Regression Trees paper *
 
