@@ -23,7 +23,7 @@
 
 ## Step 2 
 
-### Facial landmarks detector in dlib is  implementation of * One Millisecond Face Alignment with an Ensemble of Regression Trees paper *
+### Facial landmarks detector in dlib is  implementation of  One Millisecond Face Alignment with an Ensemble of Regression Trees paper 
 
 
 ### The pre trained detector in dlib is estimates the location of 68(x,y)-coordinates 
